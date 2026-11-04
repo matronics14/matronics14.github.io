@@ -54,6 +54,19 @@ body {
   vertical-align: middle;
 }
 
+#brand .phone {
+  margin-left: 12px;
+  color: var(--dim);
+  font-size: 13px;
+  font-weight: 600;
+  letter-spacing: 0.04em;
+  vertical-align: middle;
+}
+
+html.landing #brand .phone {
+  color: #1565c0;
+}
+
 .byline {
   position: fixed;
   bottom: 9px;
