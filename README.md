@@ -92,7 +92,7 @@ which model and firmware you tried.
 
 ## Credits
 
-* **MATRONICS** — branding
+* **MATRONICS** — 
 * **raw13g** — [raw13g.github.io](https://github.com/raw13g/raw13g.github.io),
   the host this page grew out of (`jb.js`, `ps4_offsets.js`, the page
   scaffolding), MIT, see `LICENSE-raw13g`
